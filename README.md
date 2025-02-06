@@ -14,7 +14,7 @@
 - 🏗️ Building web applications with Django 
 - 📖 Constantly learning and refining my craft  
 
-### 🔗 **Connect with Me**  
+### 🔧 **Tech Stack**   
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
@@ -34,3 +34,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
+
+### 🔗 **Connect with Me**  
+<div align="left">
+  <a href="https://www.linkedin.com/in/puja-bhandari-1a014a2a2/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn Logo" />
+  </a>
+</div>
+
