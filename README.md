@@ -1,4 +1,3 @@
-<h1 align="center">Code as Poetry 🖋️💻</h1>  
 <h3 align="center">Web Developer </h3>  
 
 <p align="center">
