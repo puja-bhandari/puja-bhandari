@@ -1,5 +1,11 @@
 <h1 align="center">Code as Poetry 🖋️💻</h1>  
 <h3 align="center">Crafting Digital Verses | Web Developer</h3> 
+<div align="center">
+  <h3>Crafting Digital Verses | Web Developer</h3>
+  <!-- Add your coding gif here -->
+  <img src="https://images.app.goo.gl/rp5wnB9nsSTXa38B9" alt="coding animation" />
+</div>
+<br>
 <p> <br><br>Welcome to my coding canvas, where lines of code are more than instructions—they're stanzas of logic, rhythm, and innovation.<br><br>🌟 Philosophy in Code<br>I see beyond syntax and algorithms. Each function is a metaphor, each class a narrative waiting to unfold. I don’t just solve problems; I architect meaningful, elegant solutions that resonate with both humans and machines.<br><br>🛠️ Crafting Principles<br>🔹 Readability is Rhythm – Clean, intuitive code that speaks clearly.<br>🔹 Efficiency is Elegance – Optimized solutions that dance with precision.<br>🔹 Innovation is Inspiration – Pushing boundaries, one commit at a time.<br><br>🚀 Current Explorations<br>As a BIT student, I’m continuously evolving—exploring Django, MySQL, and full-stack web development. My repositories reflect my journey, experiments, and creative problem-solving.<br><br>"In the symphony of software, every line is a note, every project a composition."</p>
 
 ###
